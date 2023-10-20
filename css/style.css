@@ -22,7 +22,7 @@ body {
 ul li{
     list-style-type: none;
 }
-.main-menu-link {
+.button-menu {
     text-decoration: none;
     color: #2E2F42;
     line-height: 1.5;
@@ -30,26 +30,26 @@ ul li{
     font-weight: 500;
     font-size: 16px;
 }
-.main-menu-link:hover, .main-menu-link:focus {
+.button-menu:hover, .button-menu:focus {
     color: #404BBF;
 }
 .address {
     font-style: normal
 }
-.address-a {
+.address-link {
     text-decoration: none;
     color: #434455;
     line-height: 1.5;
     letter-spacing: 0.02em;
     font-size: 16px;
 }
-.address-a:hover, .address-a:focus{
+.address-link:hover, .address-link:focus{
     color: #404BBF;
 }
-.main-section {
+.first-section {
     background-color: #2e2f42;
 }
-.main-section-h {
+.title {
     color: #ffffff;
     text-align: center;
     line-height: 1.07;
@@ -57,7 +57,7 @@ ul li{
     letter-spacing: 0.02em;
     
 }
-.main-section-button {
+.first-section-button {
     background-color: #4D5AE5;
     font-weight: 500;
     line-height: 1.5;
@@ -65,12 +65,12 @@ ul li{
     color: #ffffff;
     cursor: pointer;
 }
-.main-section-button:hover, .main-section-button:focus {
+.first-section-button:hover, .first-section-button:focus {
     background-color: #404BBF;
 
 }
 
-.section-two-h-two{
+.second-section-title{
     font-weight: 500;
     line-height: 1.2;
     font-size: 20px;
@@ -84,16 +84,14 @@ ul li{
     letter-spacing: 0.02em;
     line-height: 1.2;
 }
-.section-two-p{
+.second-section-text{
     line-height: 1.5;
     letter-spacing: 0.02em;
 
 
 }
-.section-tree{
-    background-color: #F4F4FD;
-}
-.section-tree-h-two{
+
+.third-section-title{
     text-align: center;
     text-transform: capitalize;
     color: #2e2f42;
@@ -105,7 +103,7 @@ ul li{
 .section-tree-li{
     background-color: #FFFFFF;
 }
-.section-tree-h-tree{
+.third-section-caption{
     font-weight: 500;
     line-height: 1.2;
     color: #2e2f42;
@@ -113,23 +111,23 @@ ul li{
     line-height: 1.2;
     letter-spacing: 0.02em;
 }
-.section-tree-p{
+.third-section-text{
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-.section-four-h-tree{
+.fourth-sec-caption{
     line-height: 1.2;
     font-weight: 500;
     font-size: 20px;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.section-four-p{
+.fourth-sec-text{
     letter-spacing: 0.02em;
     line-height: 1.5;
     font-size: 16px;
 }
-.section-tree{
+.third-section{
     background-color: #F4F4FD;
 }
 .section-tree-h-two {
@@ -140,7 +138,7 @@ ul li{
 .footer {
     background-color:#2e2f42;
 }
-.footer-p {
+.footer-text {
     line-height: 1.5;
     color:#F4F4FD;
     letter-spacing: 0.02em;
