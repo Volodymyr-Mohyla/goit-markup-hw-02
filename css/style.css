@@ -16,6 +16,9 @@ body {
 .logo .logo-span {
     color: #2E2F42;
 } 
+.logo-span-footer{
+    color: #f4f4fd;
+}
 ul li{
     list-style-type: none;
 }
