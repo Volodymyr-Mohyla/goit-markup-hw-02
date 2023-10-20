@@ -3,3 +3,16 @@ body {
     background-color: #FFFFFF;
     color: #434455; 
 }
+.logo {
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    color: #2E2F42;
+    text-decoration: none;
+    line-height: 1.666;
+    letter-spacing: 0.03em;
+    text-align: left;
+    
+}
+.logo .logo-span {
+    color: #4D5AE5;
+} 
