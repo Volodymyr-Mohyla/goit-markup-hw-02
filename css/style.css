@@ -77,6 +77,15 @@ ul li{
     font-weight: 500;
     line-height: 1.2;
     color: #2e2f42;
+    font-size: 20px;
+    letter-spacing: 0.02em;
+    line-height: 1.2;
+}
+.section-two-p{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+
+
 }
 .section-tree{
     background-color: #F4F4FD;
@@ -85,6 +94,10 @@ ul li{
     text-align: center;
     text-transform: capitalize;
     color: #2e2f42;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+
 }
 .section-tree-li{
     background-color: #FFFFFF;
