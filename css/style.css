@@ -110,6 +110,14 @@ ul li{
 .section-four-h-tree{
     color: #2e2f42;
     line-height: 1.2;
+    font-weight: 500;
+    font-size: 20px;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.section-four-p{
+    letter-spacing: 0.02em;
+    line-height: 1.5;
 }
 .section-tree{
     background-color: #F4F4FD;
