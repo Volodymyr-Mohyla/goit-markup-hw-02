@@ -98,7 +98,14 @@ ul li{
     color: #2e2f42;
     line-height: 1.2;
 }
-
+.section-tree{
+    background-color: #F4F4FD;
+}
+.section-tree-h-two {
+    text-align: center;
+    text-transform: capitalize;
+    color:#2e2f42;
+}
 
 
 p {
