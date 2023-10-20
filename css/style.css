@@ -60,18 +60,47 @@ ul li{
     letter-spacing: 0.04em;
     color: #ffffff;
     cursor: pointer;
-    display: block;
-    margin: 0 auto;
 }
 .main-section-button:hover, .main-section-button:focus {
     background-color: #404BBF;
 
 }
-h1{
-    font-family: "Roboto", sans-serif;
-    font-size: 56px;
+
+.section-two-h-two{
+    font-weight: 500;
+    line-height: 1.2;
+    font-size: 20px;
+    color: #2e2f42;
+}
+.section-two-h-tree{
+    font-weight: 500;
+    line-height: 1.2;
+    color: #2e2f42;
+}
+section-two-p{
+    
+}
+p {
+    font-size: 24px;
+    line-height: 1.5;
     letter-spacing: 0.02em;
+}
+h1, h2, h3{
+    letter-spacing: 0.02em;
+    text-align: center;
+}
+h1 {
+    font-size: 56px;
     line-height: 1.07;
     font-weight: bold;
-    text-align: center;
+}  
+h2 {
+    font-size: 36px;
+    font-weight: bold;
+    line-height: 1.2
+}
+h3 {
+    font-size: 20px;
+    font-weight: medium;
+    line-height: 1.35;
 }
