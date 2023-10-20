@@ -109,6 +109,13 @@ ul li{
     font-weight: 500;
     line-height: 1.2;
     color: #2e2f42;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+.section-tree-p{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 .section-four-h-tree{
     line-height: 1.2;
